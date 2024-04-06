@@ -56,7 +56,7 @@ Dla poprawnego zrealizowania zadania wykorzystano maszynę wirtualną uruchomion
 
 Skorzystano z aplikacji wielokontenerowej **« _Docker Composer_ »** do uruchomienia trzech kontenerów-usług: **« _helloworld_ »**, **« _nginx_ »**, **« _certbot_ »**.
 
-#### Helloworld − kontener korzystający z obrazu **« _crccheck/hello-world_ »**, służący do wstępnego testowania funkcjonowania strony WWW.
+#### Helloworld − kontener korzystający z obrazu **« _crccheck/hello-world_ »**, służący do wstępnego testowania funkcjonowania strony `WWW`.
 #### Nginx − kontener zawierający serwer HTTP Nginx.
 #### Certbot − kontener obrazu certbot, narzędzia do automatycznej generacji i zarządzania certyfikatami SSL **« _Let's Encrypt_ »**.
 
