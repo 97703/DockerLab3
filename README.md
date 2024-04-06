@@ -154,7 +154,7 @@ ___
 Skonfigurowano rekordy `DNS` typu **« _A_ »** w celu poprawnego przekierowania zapytań do uruchomionego serwera.
 
 <p align="center">
-<img src="https://public.sn.files.1drv.com/y4moNWzgieU5iVJngZrd0Hld9PQj0XDKqwlf9rhUSIOyTQAJGhO6g0uHB_PUueHLzLO3LVxk--ZCJnwWAP2w2SNOopdiPg-5PDbuT1W0kJMOuW1WMNowqki2pGPbBNKfUr0QEscsFT1sTlEKMCrKLAdjZ1eOdnjmRRA8pfE253ama5DG-YCXqc3k7YFlaH5KbQevDcenrf_SpZdSP5OHBzWbjACuloGTb8cg_HDcYnq4ao?AVOverride=1" height="225" /></p>
+<img src="https://public.sn.files.1drv.com/y4moNWzgieU5iVJngZrd0Hld9PQj0XDKqwlf9rhUSIOyTQAJGhO6g0uHB_PUueHLzLO3LVxk--ZCJnwWAP2w2SNOopdiPg-5PDbuT1W0kJMOuW1WMNowqki2pGPbBNKfUr0QEscsFT1sTlEKMCrKLAdjZ1eOdnjmRRA8pfE253ama5DG-YCXqc3k7YFlaH5KbQevDcenrf_SpZdSP5OHBzWbjACuloGTb8cg_HDcYnq4ao?AVOverride=1" height="200" /></p>
 
 <p align="center">
   <i>Rys. 8. Skonfigurowane rekordy DNS</i>
