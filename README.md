@@ -356,7 +356,7 @@ http {
   <i>Rys. 15. Końcowa konfiguracja serwera Nginx</i>
 </p>
 
-Ponownie uruchomiono aplikację Docker Compose za pomocą:
+Ponownie uruchomiono aplikację 'Docker Compose' za pomocą:
 
       docker compose up -d
 
@@ -410,7 +410,7 @@ Aby to osiągnąć, dodano polecenie **« _certonly_ »** do konfiguracji usług
 
 ___
 
-Certyfikowanie za pomocą aplikacji Dockera zaplanowano na pierwszy dzień miesiąca, co dwa miesiące o 6 rano. Zablokowano wyświetlanie i zapisywanie wiadomości z konsoli za pomocą przekierowania strumienia (*>/dev/null 2>&1*).
+Certyfikowanie za pomocą aplikacji 'Docker' zaplanowano na pierwszy dzień miesiąca, co dwa miesiące o 6 rano. Zablokowano wyświetlanie i zapisywanie wiadomości z konsoli za pomocą przekierowania strumienia (*>/dev/null 2>&1*).
 
       0 6 1 */2 * /snap/bin/docker compose -f /home/pieczykolan2/docker-compose.yml up certbot >/dev/null 2>&1
 
