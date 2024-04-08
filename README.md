@@ -1,4 +1,4 @@
-<img src="https://public.sn.files.1drv.com/y4mOgQhFCvucnHTXiOAeBnCwC-otRARLk3nRX8PIdH-D7WpuMDOpjKy_I2E6b2Wa8sXr1Ky7gGh5G0hu8ZEpc7ScHLGSr77p7gfDMhNyyg88G79xoXLGk8-Cm4H7Ec_bOodbIsVLjlz_v7iX-wnU-rGDDtEwfdZ98wR-UR-YUmZI5c42pqqGCZ3bATJ_Blq_gMtHMzyplWHYtgg8fk1jC8iXg5YY6ycrmXIXLNWgPq8jy0?AVOverride=1" height="100" />
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/loga_weii.png?raw=true" height="100" />
 
 > **Programowanie Aplikacji w Chmurze Obliczeniowej**
 
@@ -80,7 +80,7 @@ Projekt wykorzystuje to rozwiązanie w celu uruchomienia serwisu internetowego.
 Utworzone zostało konto [Google Cloud](https://cloud.google.com/?hl=pl) na prywatny adres email (*pieczykolan2@gmail.com*), gdyż niemożliwe było uruchomienie maszyny wirtualnej za pomocą konta studenckiego (*s97703@pollub.edu.pl*) z powodu braku dostępu administracyjnego do organizacji `pollub`.
 
 <p align="center">
-<img src="https://public.sn.files.1drv.com/y4m97ckXFIkSuG8V3t-OMHKcPu_4puFwC46gxgOH2L9JzmpSGxvB5KtTMYwuRnI07BSDBayivGtG5Cvfyahlplh-a4zqH81qtjF8evPFQRizVork9buH5CVyhljW1o9FfgB7ExFG-PedhMG51Tfzve625rVZcVWmwewhpWHU9zKvRflGKYh2vo1RjW_waY78SIfzW7ro1TYVlisOgkrKi5fsjogeCzleXDHm9eVN-mC5Jc?AVOverride=1" style="width: 40%; height: 40%" /></p>
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/konto.png?raw=true" style="width: 40%; height: 40%" /></p>
 
 <p align="center">
   <i>Rys. 1. Utworzone konto prywatne</i>
@@ -91,7 +91,7 @@ ___
 Maszyna wirtualna została zamówiona i uruchomiona z dwoma wirtualnymi jednostkami CPU oraz `8 GB` pamięci RAM. Dysk rozruchowy został określony na stały o pojemności równej `30 GB`, a użytym systemem maszyny zostało `Ubuntu 20.04 LTS`.
 
 <p align="center">
-<img src="https://public.sn.files.1drv.com/y4mM866xEHNstgtVoVUZs-wSm31SgfpceAo7DmNVKJa2MrlB5z2V0z9OI8VoR_wlPW1CysGNl2yJMi5n22QsgqfTn8X1Ra9JRa5l1KkJL4jk0A2SM_EZAIVXs7Nf-PSUpeSmgaBO32iKSYUEXntofl5i3u9X4DbvgbYiC9SdfdKKwDvsTg4GZqJCTYh3-7aEBVBcPyAbVW9h3gziX8Us8wNXaTxv0QRufWKGVdrdWpyaqY?encodeFailures=1&width=1292&height=3286" style="width: 50%; height: 50%" /></p>
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/nv-1.png?raw=true" style="width: 50%; height: 50%" /></p>
 
 <p align="center">
   <i>Rys. 2. Ustalona specyfikacja maszyny wirtualnej</i>
@@ -101,7 +101,7 @@ ___
 
 <br>
 <p align="center">
-<img src="https://public.sn.files.1drv.com/y4mLdRYshaasQ9VclEPxWZrM_btKxvIOjAacL3tW2MQWEiU4dk52EwAuGX0kwgAmqX0NVK4yW0Te-UiZHYK05bosK54ys7Blgf1hBxRS7DBs56bD-HWk2bcxd6pjqNxlCCCENTITplCfjcO9dyNm4pBcSUBN_k1omOsdlJRwksoKUlPKc2x3937LuDKAVnmNqXlEYbHg9xhyfYGtMwzXyEGs_4eDzJBfrIeED78UUFqHog?encodeFailures=1&width=1292&height=3286" style="width: 50%; height: 50%" /></p>
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/nv-2.png?raw=true" style="width: 50%; height: 50%" /></p>
 <p align="center">
   <i>Rys. 3. Wybrany system oraz typ i pojemność dysku rozruchowego</i>
 </p>
@@ -111,7 +111,7 @@ ___
 Z uwagi na fakt, że serwer zostanie uruchomiony w celu pełnienia funkcji hostingu strony internetowej, umożliwiono ruch zarówno protokołem `HTTP`, jak i `HTTPS`.
 
 <p align="center">
-<img src="https://public.sn.files.1drv.com/y4mpZ3t7qR_AjQDDJuhom-HEiuhIJ_pAFazU0nXTwOVrHkLdwrIvE8M2Qh2gwkrBfd8CkA83kJHkwfbkyfPLsb9Vtm3cpaURblxkoau2UKi-ikg_9kurd2Q8TzAhn11UUDOyBmRsi5JUGiitix0J4J9U9ser8YlOLXuka5bPkaTsHV8_dQAaczrNyG_TXIZccXdMNGNIgKVqRe5hrERenGwsJfe5F_VZ9PPevhjjjA2WwY?encodeFailures=1&width=1348&height=3286" style="width: 40%; height: 40%" /></p>
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/nv-3.png?raw=true" style="width: 40%; height: 40%" /></p>
 <p align="center">
   <i>Rys. 4. Ustawienia zapory sieciowej</i>
 </p>
@@ -121,7 +121,7 @@ ___
 Maszyna wirtualna została utworzona i uruchomiona. Jej zewnętrznym adresem `IPv4` jest **« _34.116.193.145_ »**. [Google Cloud](https://cloud.google.com/?hl=pl) umożliwia połączenie zdalne z maszyną za pomocą protokołu `SSH`.
 
 <p align="center">
-<img src="https://public.sn.files.1drv.com/y4mhhDUYrJKMaHN0YidI7ke5gnuAtJ5vVoREiGVfe-1zrEFCj_dlwHTqM9BF2pdrHseERG7McXV9c3qPYiqqbwJPwhkv3V3kvnKfdy1ZPoI2nmX3z6ZmxWs3cQEqHhvl_3vHwSnNEBPUZ9y0hOdNMcPtLk-CtaTHytZhSq6KyCWvDsrxwyGa8Alet43bV73BUimC-s7Ve3eeK0h7XX7qYeMA64LsGJC6UuQNjL5pM-z1go?AVOverride=1" style="width: 100%; height: 100%" /></p>
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/maszyna_wirtualna.png?raw=true" style="width: 100%; height: 100%" /></p>
 <p align="center">
   <i>Rys. 5. Uruchomiona maszyna wirtualna docker-lab3 w serwisie Google Cloud</i>
 </p>
@@ -134,7 +134,7 @@ ___
 Wykupiono dzierżawę domeny na okres roku w serwisie [home.pl](https://home.pl/) za pomocą uczelnianego konta (*s97703@pollub.edu.pl*).
 
 <p align="center">
-<img src="https://public.sn.files.1drv.com/y4mVbnVGa896As9ttIa1UNCtSIIDbnt_627NlpRNICPMFEJVSuG-22KXaNbmu68vdE0lToqbQNKC38XzYBCsQLRK3SVP-f4rPxrKrFv0HZHZxU2yPAIAd2Plv0LQVXePM1JORWmKEbDwGp8u_jK9xXHYsDKaydfpeIDrDZytuGfG-XpYLtSfusZwOqUPkafjVJHX7kWdvPyZCxu_RnR-EXsVUYrBGIOzqpmFJDmHAiuUI0?AVOverride=1" style="width: 50%; height: 50%" /></p>
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/domena.png?raw=true" style="width: 50%; height: 50%" /></p>
 
 <p align="center">
   <i>Rys. 6. Widok panelu informacyjnego domeny</i>
@@ -143,7 +143,7 @@ Wykupiono dzierżawę domeny na okres roku w serwisie [home.pl](https://home.pl/
 ___
 
 <p align="center">
-<img src="https://public.sn.files.1drv.com/y4m5xZmuhFJ4xAopRjL1M9bZp-J_fl5KfJoKcwSlEpqrZ8BLlEB7XeG8u_4cY91SDPxpkjhKR9R_3Z0r6osXY1Edo7ddURUdSR8dGTsJnR2QhzdTeY0Ik5W_vEIPtmF6GLt6-_7zCa2mAA5Q_NzWdA6xnlfIMFVVA_l_WMgKYwfrYAP1fcACe2mwx8GFpMPgBz4QJqfKYOOoXI7LAqNwLAUECkfGcExvEFKWupVjAjrc6k?AVOverride=1" style="width: 80%; height: 80%" /></p>
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/domena2.png?raw=true" style="width: 80%; height: 80%" /></p>
 
 <p align="center">
   <i>Rys. 7. Widok panelu konfiguracyjnego domeny</i>
@@ -154,7 +154,7 @@ ___
 Skonfigurowano rekordy `DNS` typu **« _A_ »** w celu poprawnego przekierowania zapytań do uruchomionego serwera.
 
 <p align="center">
-<img src="https://public.sn.files.1drv.com/y4moNWzgieU5iVJngZrd0Hld9PQj0XDKqwlf9rhUSIOyTQAJGhO6g0uHB_PUueHLzLO3LVxk--ZCJnwWAP2w2SNOopdiPg-5PDbuT1W0kJMOuW1WMNowqki2pGPbBNKfUr0QEscsFT1sTlEKMCrKLAdjZ1eOdnjmRRA8pfE253ama5DG-YCXqc3k7YFlaH5KbQevDcenrf_SpZdSP5OHBzWbjACuloGTb8cg_HDcYnq4ao?AVOverride=1" style="width: 80%; height: 80%" /></p>
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/dns.png?raw=true" style="width: 80%; height: 80%" /></p>
 
 <p align="center">
   <i>Rys. 8. Skonfigurowane rekordy DNS</i>
@@ -186,7 +186,7 @@ services:
 Uruchomiono aplikację zdefiniowaną w pliku.
 
 <p align="center">
-<img src="https://public.sn.files.1drv.com/y4mRsTxjvsA1VGlO2Wksl6idyOp7atXfHv7FlaI4iTjc3fr0-9PTLjmzCM0FRF8t4y3B_MD0KIMtagwEi7P-G6ntSXjI_2TkVlX5iJn3fdmV8q6uIIXacEF_OOVz2-dgkLYOVYVRA0wwrWYuzNz-zXEEdALh5_nLe692Czj84nnk7DKXMWh7Yfmt9CwE4YJ__diI65dmilAm1hIZphV-ZWkoUWT_q7KOUZRxI35QJrVyik?AVOverride=1"  style="width: 50%; height: 50%" /></p>
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/uruchomienie_dockera.png?raw=true"  style="width: 50%; height: 50%" /></p>
 
 <p align="center">
   <i>Rys. 10. Uruchomienie aplikacji Docker Compose</i>
@@ -196,7 +196,7 @@ ___
 
 Po wpisaniu adresu **« _dockerlab3.website_ »** w pasku adresowym przeglądarki została wyświetlona strona *Hello World*.
 <p align="center">
-<img src="https://public.sn.files.1drv.com/y4mONpploCewLb5Zk6pbj7CtZvcbzGC32OxMSK1RW1VuAgOdHNLVkDH3A359rnuvdTw4dDJmVbbKbZJAUDwQIH4xvyY2DLNgUJGJrwMda7z0f6lQ-W04KdFYQmK_goIGwIJxXDQAJLpzOST73jxjnMPV2Qpo0YAePuZoSygb2RzxW8v9rSZYCVigM0tKj7FGQR8BmWN13aOjlo1gjdBewA8ojGLzlbKx9fqsR_Ed_bnyhQ?AVOverride=1" style="width: 50%; height: 50%" /></p>
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/hello.png?raw=true" style="width: 50%; height: 50%" /></p>
 <p align="center">
   <i>Rys. 11. Widok strony dockerlab3.website</i>
 </p>
@@ -290,7 +290,7 @@ services:
 Uruchomiono aplikację `Docker Compose` i uzyskano certyfikat wraz z wygenerowanym kluczem.
 
 <p align="center">
-<img src="https://public.sn.files.1drv.com/y4mn1OP0qTjwYlVI3hxX4JxfFNGWe2vAwavWoRe-t_v1RgnvVJ7wfDSp5mML2jRSpEynFLnkM0Fdu8F4RWyov50wfuEUM2juIO1JoqRPpp2HdDAEaFRHRxRHkR9ZOZidAYnGskPxNo5Z95kkZkutg88tpc3oiGOYj07BpPRZHaB4kDIApdCOHTISYXixTSMbO8bJz3D0j7z11LcoNS5hyVWi980e7LMonLcsv0T3zgPcVI?AVOverride=1" style="width: 70%; height: 70%" /></p>
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/generowanie_cert.png?raw=true" style="width: 70%; height: 70%" /></p>
 <p align="center">
   <i>Rys. 14. Otrzymanie certyfikatu Let's Encrypt</i>
 </p>
@@ -366,7 +366,7 @@ Ponownie uruchomiono aplikację `Docker Compose` za pomocą:
 <br><br><br>
 W przeglądarce internetowej **« _Microsoft Edge_ »** (*kompilacja 123.0.2420.65*) w pasku adresowym wpisano adres `IPv4`, a następnie nazwę domenową **« _dockerlab3.website_ »**. Rezultaty przedstawiono poniżej.
 <p align="center">
-<img src="https://public.sn.files.1drv.com/y4mPMNldhUeSCe6TjSwTnW55M3cBKfxcNgDk-phukFFns63xZiFrErRj6WRuXrhPGU6HjhlIO6IwNLW278JVJ7dC-3ddfNR2UQIn9OQ7rnt5BmUnbZ_zD-9gIiL3JNw8werqwejpmyFFLdbA6QnNPNklrbTZbm9LnDHa3qTldxFPZwDlFgcKQtYSdqqRDXk9HGoiBtqCkeCw2ovyX3-VejME-Ka106DIIwuDuhIcYAIhZg?AVOverride=1" style="width: 50%; height: 50%" /></p>
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/brak-cert.png?raw=true" style="width: 50%; height: 50%" /></p>
 <p align="center">
   <i>Rys. 16. Brak certyfikatu uwierzytalniającego dla adresu serwera</i>
 </p>
@@ -375,7 +375,7 @@ ___
 
 <br>
 <p align="center">
-<img src="https://public.sn.files.1drv.com/y4mP7uGbY5PWfpYPK21Cm8dMMldClRqJUBxD-fHj00xQJhokzPfpbuAB-7EVtegU_ZCAuCJv0rMpSHMurhhoEoeXGwlkf5zqWEcWeJ3YVUFa32VNJg7XmEB3eGoVVzIEWQjjuJ7_tbjOV1Uqw9M3pSpM1M9ukBnCfmoCJHMw2x5zAEB0CulFkrhW2bIUSMm0-D1P54E6TOIvE8-LsEyKRLWGmlfZhX7ejmOj3OEZtlGuqI?AVOverride=1" style="width: 50%; height: 50%" /></p>
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/cert-2.png?raw=true" style="width: 50%; height: 50%" /></p>
 <p align="center">
   <i>Rys. 17. Obecność certyfikatu uwierzytalniającego dla domeny serwera</i>
 </p>
@@ -384,7 +384,7 @@ ___
 
 <br>
 <p align="center">
-<img src="https://public.sn.files.1drv.com/y4mUo_B2He70lgomUKFBQkN-OFMsPuyP4uHgBnh2RGzICtT41SHNcFaIIDcXib8veipmmHTIf3YQQbPqA1GLVJ-E8j5LZkML9mZgkEg3EyRjE8vAAtMc8QhcBxOc3SzxGUgB14YVAHBwMKdgAFrPTZc0_SoKY2DNb--hlIE06FiiYTbBoC_ZJBfTLJFLkBot1SGQxYrykM44b00qPfWlF3IkE-n1ZdU_15HqFaBdxmZwBM?AVOverride=1" style="width: 80%; height: 80%" /></p>
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/cert.png?raw=true" style="width: 80%; height: 80%" /></p>
 <p align="center">
   <i>Rys. 18. Aktywny certyfikat uwierzytelniający dla nazwy domenowej dockerlab3.website</i>
 </p>
@@ -403,7 +403,7 @@ Aby to osiągnąć, dodano polecenie **« _certonly_ »** do konfiguracji usług
       crontab -e
 
 <p align="center">
-<img src="https://public.sn.files.1drv.com/y4m42FAcgNDj-fGAqfiqViBFFLU6NdsxXEQ51HE6otOEfLnCLEc09zVfNDDP4Ca0QBJyUBP78Ej7rNG_HVh-v-HOhuBaxeVqer4QZonPKE1-kH8qorqPnsE-iChALFT1qqyUyDEiEfluhPZIyR3lGAYqfsk1lflQhPxcFL1eKdUICb4DQxZefSnNpftCHkzacriiQG3zS4p9Nxai12YDP656gy1EK3_uwLmJKCQjGTGzBY?AVOverride=1" style="width: 70%; height: 70%" /></p>
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/cron.png?raw=true" style="width: 70%; height: 70%" /></p>
 <p align="center">
   <i>Rys. 19. Plik usługi crontab z nową regułą</i>
 </p>
