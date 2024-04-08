@@ -1,4 +1,4 @@
-<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/loga_weii.png?raw=true" height="100" />
+<img src="https://github.com/97703/DockerLab3/blob/main/rysunki/loga_weii.png?raw=true" style="width: 40%; height: 40%" />
 
 > **Programowanie Aplikacji w Chmurze Obliczeniowej**
 
